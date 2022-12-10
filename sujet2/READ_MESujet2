@@ -1,0 +1,20 @@
+# Projet-machine-learning-ING1-GM1
+
+PROJET PROGRAMMATION PROCEDURALE ING1 (LANGAGE C ) - Sujet 2
+
+AUTEURS :
+
+Jade CANO ET Astrid BROUCAS (ING1 GM1 CY Tech)
+
+OBJECTIFS : 
+
+Dans cette partie, nous allons modéliser le fonctionnement d'un ordonnanceur avec une file de processus.
+
+Nous allons écrire un algorithme qui permet de rentrer de nouveaux processus dans l'ordonnanceur et de réaliser un "tour" d'ordonnancement.
+
+UTILISATION: 
+
+Pour compiler, ouvrir un terminal et rentrer la commande make.
+Pour exécuter, rentrer la ligne de commande suivante dans le terminal : ./exec
+Après avoir exécuter le proggramme, vous pouvez utiliser la commande make clean pour supprimer les fichiers .o ainsi que l'exécutable.
+
